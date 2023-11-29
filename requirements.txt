@@ -7,4 +7,3 @@ opencv-python-headless
 opencv-contrib-python
 opencv-python
 cvlib==0.2.7
-cv2
