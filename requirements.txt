@@ -4,6 +4,4 @@ streamlit==1.19.0
 streamlit-webrtc
 mediapipe==0.10.8
 opencv-python-headless
-opencv-contrib-python
-opencv-python
 cvlib==0.2.7
